@@ -1,0 +1,501 @@
+vehicle_type,vehicletypedetail
+Van,1
+SUV,"1,RWD"
+SUV,"3,FWD"
+Car,4
+Van,1
+Van,1
+SUV,"3,FWD"
+Convertible,"2,Retractable hardtop"
+Van,1
+Convertible,"3,Retractable hardtop"
+Van,1
+Convertible,"3,Rear window"
+SUV,"1,AWD"
+Convertible,"3,Rear window"
+Truck,"4,0.5,Tool Box"
+Truck,"5,2.5,Hinged"
+Car,3
+SUV,"4,RWD"
+Truck,"3,4,Snap"
+Truck,"3,3"
+Car,3
+Truck,"5,4,Folding"
+Convertible,"3,Textile"
+SUV,"1,4WD"
+Convertible,"2,Tonneau cover"
+Van,1
+Truck,"2,0.5,Hinged"
+Car,3
+Convertible,"3,Safety"
+SUV,"1,AWD"
+Convertible,"3,Safety"
+Truck,"5,3,Roll-Up/Rolling"
+Van,0
+Truck,"3,3.5,Retractable"
+Convertible,"2,Tonneau cover"
+Car,4
+Truck,"3,2.5,Snap"
+Van,0
+Van,1
+SUV,"1,FWD"
+Convertible,"3,Rear window"
+Convertible,"3,Safety"
+SUV,"3,4WD"
+Car,4
+Convertible,"2,Tonneau cover"
+Car,4
+Van,0
+Car,4
+SUV,"4,AWD"
+Convertible,"2,Safety"
+Convertible,"3,Retractable hardtop"
+SUV,"3,RWD"
+Truck,"5,0.5,Retractable"
+SUV,"3,RWD"
+Car,2
+Truck,"5,3.5,Folding"
+SUV,"2,RWD"
+Van,0
+SUV,"4,AWD"
+SUV,"1,4WD"
+Car,4
+SUV,"4,RWD"
+Convertible,"3,Open car and roadster"
+Van,1
+Car,4
+Van,0
+SUV,"1,FWD"
+Car,4
+Car,2
+Van,0
+SUV,"3,AWD"
+SUV,"2,FWD"
+Convertible,"3,Open car and roadster"
+Convertible,"2,Open car and roadster"
+Car,2
+Van,1
+Convertible,"2,Safety"
+SUV,"2,RWD"
+SUV,"2,AWD"
+SUV,"2,AWD"
+Truck,"4,1,Tool Box"
+Van,0
+SUV,"1,4WD"
+SUV,"2,AWD"
+SUV,"3,RWD"
+Convertible,"2,Retractable hardtop"
+Car,4
+SUV,"4,4WD"
+Convertible,"2,Safety"
+Truck,"2,4,Roll-Up/Rolling"
+Convertible,"3,Detachable hardtop"
+Truck,"2,1.5,Tool Box"
+Van,1
+Truck,"5,0.5,Electric"
+Convertible,"3,Windblocker"
+Van,1
+SUV,"2,FWD"
+SUV,"1,4WD"
+SUV,"1,RWD"
+SUV,"2,RWD"
+Van,1
+Car,4
+Convertible,"3,Open car and roadster"
+Car,4
+Convertible,"2,Tonneau cover"
+Van,0
+Truck,"2,2"
+Car,4
+Van,0
+Convertible,"3,Rear window"
+SUV,"4,AWD"
+Truck,"5,1.5,Folding"
+SUV,"1,4WD"
+Truck,"5,1,Hinged"
+Convertible,"2,Retractable hardtop"
+Car,4
+Van,0
+Car,2
+Truck,"5,4,Folding"
+SUV,"2,FWD"
+SUV,"3,RWD"
+Truck,"3,3.5"
+Car,2
+SUV,"2,AWD"
+SUV,"2,FWD"
+Convertible,"2,Safety"
+SUV,"1,AWD"
+Convertible,"2,Retractable hardtop"
+Car,4
+SUV,"4,4WD"
+Van,1
+Van,1
+Convertible,"3,Open car and roadster"
+Convertible,"2,Textile"
+Truck,"5,1,Snap"
+Truck,"3,3.5,Folding"
+Van,1
+Van,0
+Convertible,"3,Tonneau cover"
+Truck,"2,2.5,Roll-Up/Rolling"
+Car,4
+Convertible,"2,Rear window"
+Truck,"4,3,Tool Box"
+Van,0
+Convertible,"2,Rear window"
+Van,0
+SUV,"4,4WD"
+Convertible,"2,Textile"
+Truck,"5,1.5,Snap"
+Van,1
+SUV,"3,FWD"
+Truck,"4,4,Snap"
+SUV,"4,4WD"
+Van,1
+Car,2
+SUV,"1,RWD"
+Truck,"4,1,Electric"
+Convertible,"2,Detachable hardtop"
+SUV,"2,4WD"
+Car,2
+Truck,"2,0.5,Snap"
+Truck,"2,3.5,Electric"
+Convertible,"3,Safety"
+Truck,"2,3,Roll-Up/Rolling"
+SUV,"2,4WD"
+SUV,"4,FWD"
+Truck,"5,3,Roll-Up/Rolling"
+SUV,"4,AWD"
+SUV,"4,FWD"
+Truck,"3,3.5,Roll-Up/Rolling"
+SUV,"3,RWD"
+Convertible,"3,Detachable hardtop"
+Convertible,"2,Windblocker"
+Truck,"3,2,Hinged"
+Car,4
+Convertible,"3,Rear window"
+Van,0
+Van,1
+Convertible,"2,Rear window"
+Convertible,"3,Safety"
+Van,0
+Van,0
+Car,4
+Convertible,"3,Rear window"
+Truck,"4,2,Tool Box"
+Car,3
+Van,0
+SUV,"2,FWD"
+Van,1
+Car,3
+Car,3
+Truck,"2,2.5,Tool Box"
+Car,4
+Convertible,"2,Open car and roadster"
+Car,2
+Van,1
+Van,1
+Van,1
+Car,3
+Convertible,"2,Rear window"
+Car,2
+SUV,"4,4WD"
+Truck,"4,2,Hinged"
+Car,2
+Truck,"4,2"
+SUV,"1,4WD"
+Car,4
+SUV,"4,AWD"
+Van,0
+SUV,"4,FWD"
+Car,4
+Convertible,"2,Safety"
+Truck,"2,3.5,Retractable"
+Truck,"4,3.5,Hinged"
+Truck,"4,4,Retractable"
+SUV,"2,AWD"
+SUV,"1,FWD"
+SUV,"4,FWD"
+Car,3
+Car,2
+Car,3
+Van,1
+SUV,"3,RWD"
+SUV,"4,RWD"
+Convertible,"2,Retractable hardtop"
+Car,2
+Van,0
+Van,0
+Convertible,"3,Open car and roadster"
+Car,4
+SUV,"3,4WD"
+Convertible,"2,Rear window"
+Car,4
+Van,0
+Convertible,"3,Rear window"
+Convertible,"2,Retractable hardtop"
+Convertible,"2,Detachable hardtop"
+Truck,"3,2,Snap"
+SUV,"1,RWD"
+Convertible,"2,Tonneau cover"
+Convertible,"2,Safety"
+Convertible,"2,Open car and roadster"
+Convertible,"2,Textile"
+Truck,"5,2,Hinged"
+SUV,"2,FWD"
+Convertible,"3,Retractable hardtop"
+Truck,"4,1.5,Snap"
+SUV,"3,AWD"
+Van,0
+Convertible,"3,Retractable hardtop"
+Car,2
+Van,0
+Van,1
+Truck,"2,1.5,Tool Box"
+SUV,"4,AWD"
+SUV,"2,RWD"
+Car,4
+Truck,"3,1.5,Tool Box"
+Car,4
+Convertible,"3,Tonneau cover"
+SUV,"3,4WD"
+Truck,"3,2,Folding"
+Car,2
+Truck,"3,3,Hinged"
+Van,1
+Convertible,"3,Tonneau cover"
+Car,3
+Car,3
+SUV,"4,4WD"
+Convertible,"2,Retractable hardtop"
+Convertible,"2,Textile"
+Car,2
+Car,2
+Car,4
+Convertible,"3,Tonneau cover"
+Truck,"2,2.5,Electric"
+Truck,"3,1.5,Hinged"
+Convertible,"2,Windblocker"
+SUV,"4,AWD"
+Truck,"3,3.5"
+Truck,"2,1,Roll-Up/Rolling"
+Truck,"2,4,Hinged"
+SUV,"3,RWD"
+SUV,"2,RWD"
+SUV,"1,4WD"
+SUV,"2,4WD"
+Van,0
+SUV,"3,RWD"
+Car,4
+Car,4
+Van,1
+Truck,"2,3.5,Folding"
+Van,1
+Car,2
+Truck,"3,0.5,Folding"
+Van,1
+Truck,"2,2.5,Snap"
+Truck,"3,2,Hinged"
+Car,2
+Convertible,"3,Windblocker"
+Convertible,"3,Tonneau cover"
+SUV,"3,RWD"
+Convertible,"3,Open car and roadster"
+Van,0
+Convertible,"3,Windblocker"
+Car,3
+Car,2
+Car,2
+Truck,"3,2.5,Retractable"
+SUV,"1,AWD"
+Car,4
+Convertible,"2,Textile"
+Convertible,"2,Safety"
+Convertible,"2,Safety"
+Car,3
+Truck,"4,3.5,Snap"
+SUV,"1,FWD"
+Convertible,"3,Windblocker"
+Convertible,"3,Rear window"
+SUV,"2,AWD"
+Car,4
+Convertible,"2,Retractable hardtop"
+Car,3
+Convertible,"2,Retractable hardtop"
+Truck,"3,3"
+Car,2
+Convertible,"2,Retractable hardtop"
+Van,0
+Truck,"5,0.5,Hinged"
+Car,3
+SUV,"3,AWD"
+Van,1
+Car,4
+Convertible,"3,Detachable hardtop"
+SUV,"2,FWD"
+Truck,"3,1.5,Snap"
+Van,0
+Convertible,"2,Detachable hardtop"
+Car,3
+Truck,"5,2,Retractable"
+SUV,"3,FWD"
+Car,3
+Truck,"4,1,Hinged"
+Car,2
+Car,2
+Van,1
+Van,1
+SUV,"3,FWD"
+Convertible,"3,Textile"
+Car,3
+Car,2
+Truck,"2,2.5,Retractable"
+SUV,"4,AWD"
+Convertible,"2,Windblocker"
+Convertible,"3,Windblocker"
+SUV,"1,AWD"
+SUV,"1,FWD"
+SUV,"4,4WD"
+Car,2
+Convertible,"3,Rear window"
+Car,3
+Truck,"5,1,Folding"
+Truck,"2,2.5,Electric"
+Truck,"4,3.5,Retractable"
+SUV,"2,4WD"
+Van,0
+Van,0
+SUV,"1,FWD"
+Car,2
+Van,0
+Convertible,"3,Windblocker"
+Car,4
+Car,4
+Van,0
+SUV,"4,FWD"
+Truck,"3,1.5,Tool Box"
+Car,4
+Convertible,"3,Windblocker"
+SUV,"1,RWD"
+Van,1
+Truck,"4,3.5"
+Car,3
+SUV,"4,4WD"
+Convertible,"2,Rear window"
+Car,2
+Convertible,"3,Tonneau cover"
+SUV,"4,FWD"
+Truck,"2,2,Hinged"
+SUV,"4,RWD"
+SUV,"3,AWD"
+Van,0
+Convertible,"2,Retractable hardtop"
+Convertible,"3,Windblocker"
+Van,0
+Car,3
+Van,0
+Car,4
+SUV,"3,FWD"
+SUV,"4,RWD"
+SUV,"4,AWD"
+Truck,"4,2,Roll-Up/Rolling"
+Truck,"5,2,Retractable"
+Car,4
+Car,2
+Van,0
+Van,1
+Van,1
+Car,3
+Convertible,"2,Tonneau cover"
+Truck,"5,1,Roll-Up/Rolling"
+SUV,"3,RWD"
+Truck,"5,4,Electric"
+Car,2
+Convertible,"3,Textile"
+Car,4
+SUV,"4,AWD"
+SUV,"4,AWD"
+Convertible,"3,Retractable hardtop"
+SUV,"2,4WD"
+Truck,"4,3,Folding"
+Car,4
+Convertible,"2,Tonneau cover"
+Convertible,"3,Textile"
+Truck,"3,3.5,Roll-Up/Rolling"
+Van,1
+Van,1
+SUV,"3,RWD"
+Van,0
+SUV,"1,AWD"
+SUV,"4,AWD"
+Truck,"2,3"
+SUV,"1,4WD"
+Van,1
+Truck,"3,2,Snap"
+SUV,"3,RWD"
+Convertible,"2,Safety"
+Car,4
+SUV,"3,4WD"
+SUV,"1,RWD"
+SUV,"1,FWD"
+Convertible,"3,Retractable hardtop"
+Convertible,"2,Open car and roadster"
+SUV,"3,AWD"
+SUV,"4,4WD"
+Truck,"5,0.5,Hinged"
+Car,4
+Truck,"4,2.5,Electric"
+Van,0
+Truck,"3,3,Roll-Up/Rolling"
+SUV,"1,RWD"
+Car,4
+Car,3
+SUV,"3,RWD"
+Car,3
+Truck,"2,3.5,Retractable"
+SUV,"3,RWD"
+Convertible,"2,Retractable hardtop"
+Van,1
+Van,1
+SUV,"3,4WD"
+Truck,"3,2.5,Tool Box"
+Van,1
+Convertible,"2,Textile"
+Van,0
+Car,4
+Truck,"4,2.5,Snap"
+SUV,"3,AWD"
+Van,0
+SUV,"4,RWD"
+Van,1
+Car,2
+Car,2
+SUV,"2,AWD"
+SUV,"3,4WD"
+Car,3
+SUV,"1,RWD"
+Van,1
+Van,0
+Convertible,"3,Safety"
+Van,0
+Convertible,"2,Textile"
+Truck,"5,0.5,Retractable"
+Van,1
+Van,0
+SUV,"3,AWD"
+Convertible,"2,Tonneau cover"
+Car,3
+Truck,"5,1.5,Roll-Up/Rolling"
+Truck,"4,0.5,Electric"
+SUV,"1,RWD"
+Car,3
+Truck,"5,0.5,Roll-Up/Rolling"
+Truck,"3,0.5,Roll-Up/Rolling"
+Car,4
+Car,4
+Truck,"4,3,Retractable"
+Convertible,"3,Retractable hardtop"
+Convertible,"2,Windblocker"
+SUV,"4,FWD"
+SUV,"4,FWD"
